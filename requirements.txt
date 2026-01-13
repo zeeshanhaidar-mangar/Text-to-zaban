@@ -1,1 +1,8 @@
-
+streamlit
+transformers
+torch
+scipy
+numpy
+requests
+librosa
+soundfile
